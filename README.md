@@ -44,4 +44,3 @@ fractal_dragon_curve.py - Кривая Дракона
 - Глубина рекурсии определяет сложность и форму кривой
 
 Видео с работой
-https://github.com/user-attachments/assets/35518cc9-dc5d-46dd-a779-149f85144efe
