@@ -4,7 +4,7 @@ screen = turtle.Screen()
 screen.bgcolor("white")
 
  
-screen.tracer(1)                            #анимация пошаговая
+screen.tracer(1)                            #анимация пошаговая (скорость анимации)
 
 turtle_ = turtle.Turtle()                   # Создаём объект "черепаха"
 turtle_.color("green")
